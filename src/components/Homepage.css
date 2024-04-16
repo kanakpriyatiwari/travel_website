@@ -1,0 +1,283 @@
+body {
+  overflow-x: hidden;
+}
+
+#backg-pic{
+    width: 1525px;
+    height: 490px;
+}
+.image-container {
+    position: relative;
+  }
+  
+  .text-overlay {
+    position: absolute;
+    top: 250px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%; /* Adjust this width as needed */
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+  }
+  #welcome-msg{
+    font-size: 55px;
+    margin-top: 1px;
+    text-transform: capitalize;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  }
+
+
+  .search-container {
+    position: relative;
+    margin-top: 90px;
+    width: 800px;
+    
+    margin-left: 190px;
+  }
+  
+  .search-icon {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    color: black; /* Set the color to black */
+  }
+  #textbox{
+    height: 60px;
+  }
+  /*  */
+  #heading2-homepage{
+    color: #1c7d7e;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: capitalize;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: lighter;
+    font-size: 52px;
+    
+  }
+  #headin3-homepage{
+    text-transform: capitalize;
+    color: rgb(20, 18, 18);
+    font-size: 30px;
+    text-align: center;
+    font-weight: lighter;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .different{
+    background-color: bisque;
+    border-radius: 12px;
+    margin-left: 75px;
+    
+    margin-top: 50px;
+    height: 450px;
+    width: 400px;
+  }
+
+  #different1{
+    margin-top: 20px;
+    text-align: center;
+   
+    color: rgb(0, 172, 172);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  #tagline-different1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+  }
+  .btn-different{
+    background-color:#d70073;
+    color: white;
+    margin-left: 122px;
+    border-radius: 32px;
+    padding: 12px;
+  }
+ 
+
+  
+
+  #tourist{
+    width: 420px;
+   height: 703px;
+    margin-top: 50px;
+    margin-left: 52px;
+    border-radius: 12px;
+  }
+  #whitemahal{
+    width: 490px;
+    margin-top:50px ;
+    margin-left: 119px;
+    border-radius: 12px;
+    
+  }
+
+  #hawamahal{
+    width: 410px;
+    margin-left: 55px;
+    border-radius: 12px;
+    margin-top: -195px;
+  }
+
+  .faqs{
+    background-color: bisque;
+    border-radius: 12px;
+    margin-left: 480px;
+    margin-top: -350px;
+    width: 490px;
+    height: 343px;
+  }
+
+  .btn-faqs{
+    background-color:#d70073;
+    color: white;
+    margin-top: 32px;
+    margin-left: 162px;
+    border-radius: 32px;
+    padding: 13px;
+  }
+
+  #tagline-different3{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  /*  */
+  #book-homepage{
+    color: #FEFDED;
+    background-color: #d70073;
+    text-transform: capitalize;
+    width: 890px;
+    margin-top: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-left: 328px;
+    border-radius: 22px;
+  }
+  /*  */
+  .card-img-top{
+    width: 353px;
+  }
+  .card{
+    border: none;
+    margin-top: 80px;
+    margin-left: 92px;
+  }
+  .card-title{
+    text-transform: capitalize;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 32px;
+  }
+  #assam-pic{
+    width: 281px;
+    /* position: 'absolute';
+     top: '10px';
+      left: '10px';
+       color: 'white';
+        font-size: 29px;
+         font-weight: 'bold'; */
+  }
+
+
+ #assam-pic-heading{
+  text-transform: uppercase;
+  width: 281px;
+    position: absolute;
+     top: 10px;
+      left: 10px;
+       color: rgb(255, 251, 7);
+        font-size: 69px;
+         font-weight: 'bold';
+ 
+} 
+
+  .btn-book-now{
+    margin-left: 150px;
+    margin-top: -69px;
+    background-color: #d70073;
+ border-radius: 32px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+
+.btn-book-now:hover{
+  background-color: #d70073;
+ 
+}
+
+  h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #04388b;
+    margin-left: 22px;
+    font-size: 30px;
+    margin-top: -30px;
+    text-transform: capitalize;
+  }
+ .icon{
+  color: #0569ff;
+ 
+ }
+ h2{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ /*  */
+ #j_k{
+  margin-top: 110px;
+ }
+ #jk_pic{
+  width: 1230px;
+  margin-left: 148px;
+  border-radius: 12px;
+ }
+ #jk1{
+  width: 290px;
+  border-radius: 12px;
+  margin-left: 55px;
+ }
+ #jk2{
+  width: 320px;
+  height: 221px;
+ margin-left: -9px;
+  border-radius: 12px;
+ }
+ #jk3{
+  width: 300px;
+  margin-left: -39px;
+ 
+  border-radius: 12px;
+}
+#jk4{
+   border-radius: 12px;
+   margin-left: -89px;
+  width: 220px;
+ }
+ .cardtitle{
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ #cardtitle1{
+  margin-left: 52px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 22px;
+ }
+
+ #cardtitle4{
+  margin-left: -192px;
+  font-size: 22px;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ .destination-guides h4{
+  margin-top: 52px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-size: 30px;
+  margin-left: 152px;
+  
+  
+ }
+  

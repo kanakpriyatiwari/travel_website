@@ -1,0 +1,22 @@
+.error-message {
+    color: red;
+  }
+
+  .btn-primary{
+   text-align: center;
+   margin-left: 242px;
+   margin-top: 50px;
+   width: 200px;
+   padding: 12px;
+   border-radius: 12px;
+  }
+  .container-book{
+    width: 800px;
+    margin-left: 402px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  #book_now_heading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-top: 50px;
+  }

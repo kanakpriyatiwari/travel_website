@@ -1,0 +1,30 @@
+#register-pic{
+    width: 750px;
+    margin-left: 10px;
+    border-radius: 880px;
+    margin-top: 50px;
+
+}
+form{
+    border-radius: 12px ;
+    border: 2px solid rgb(234, 230, 230);
+    height: 530px;
+    margin-top: 60px;
+    padding: 22px;
+    margin-right: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 23px;
+    
+}
+#register-form{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #16d7da;
+    font-family: 55px;
+}
+#register-btn1{
+    margin-left: 272px;
+    margin-top: 10px;
+    background-color: #16d7da;
+    color: white;
+}

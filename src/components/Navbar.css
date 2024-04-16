@@ -1,0 +1,58 @@
+.navbar {
+    height: 55px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    background-color: #fbfff6;
+  }
+
+  .navbar-brand {
+    color: #333; /* text color */
+    font-size: 40px;
+   
+  }
+  
+  .navbar-brand:hover {
+    background-color: transparent;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .navbar-nav .nav-item .link_items{
+    color: #333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .navbar-nav .nav-item .link_items:hover {
+    text-decoration: underline;
+  
+    text-underline-offset: 12px; /* Adjust this value to control the space between text and underline */
+    /* color: #16d7da; */
+    color: #186F65;
+  }
+  .btn-info1{
+    background-color: #01a390;
+    margin-top: 9px;
+  }
+  .nav-item {
+    margin-right: 20px;
+    padding: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  .link_items {
+    text-decoration: none;
+    color: black;
+  }
+  
+  /* New CSS to display items in the same line */
+  .navbar-nav {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-nav .nav-item {
+    margin-right: 10px;
+  }
+  
+ 
+  

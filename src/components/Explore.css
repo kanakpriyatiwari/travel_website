@@ -1,0 +1,150 @@
+ #pic{
+    width: 1540px;
+    height: 560px;
+} 
+
+/* / */
+.explore-container {
+    position: relative;
+  }
+  
+  .explore-text {
+    position: absolute;
+    top: 270px;
+    left: 50%;
+   
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: rgb(255, 254, 254); /* Set text color to white */
+  }
+
+  #heading-explore{
+    font-size: 62px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  #exploration-heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 55px;
+    color: #f50c9f;
+    text-align: center;
+  }
+  
+  /*  */
+  #exp2{
+    width: 420px;
+    border-radius: 60px;
+  }
+  #exp3{
+    width: 420px;
+    border-radius: 60px;
+  }
+  #exp4{
+    width: 420px;
+    border-radius: 60px;
+  }
+  #exp5{
+    width: 420px;
+    border-radius: 60px;
+  }
+  #exp1{
+    width: 420px;
+    border-radius: 60px;
+  }
+  #exp6{
+    width: 420px;
+    height: 275px;
+    border-radius: 60px;
+    margin-left: 60px;
+  }
+
+  .taglines{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+    text-align: center;
+  }
+
+  .picrow1{
+    margin-left: 92px;
+    /* border-radius: 12px; */
+  }
+  .picrow2{
+    margin-left: 292px;
+  }
+  #shopping-tagline{
+    margin-left: 52px;
+  }
+  .travel-diaries{
+    /* background-color: #f50c9f; */
+    /* color: rgb(255, 255, 254); */
+    color: #ff2f00;
+   
+    /* width: 400px; */
+    margin-left: 120px;
+    margin-top: 52px;
+    font-family: 'Times New Roman', Times, serif
+   
+  }
+  
+  #traveldiaries-heading{
+    font-size: 85px;
+   
+  }
+  /*  */
+  #storypic1{
+    width: 590px;
+    margin-left: 192px;
+    margin-top: 20px;
+    border-radius: 43px;
+  }
+
+  #story-heading1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 55px;
+  }
+  #story-paragraph1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    margin-left: 22px;
+  }
+  /*  */
+  #storypic2{
+    width: 550px;
+    margin-left: 52px;
+    border-radius: 23px;
+  }
+
+  #story-heading2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 55px;
+    /* margin-left: 150px; */
+  }
+  #story-paragraph2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    margin-left: 52px;
+  }
+  /*  */
+  #storypic3{
+    width: 650px;
+    margin-left: 92px;
+    margin-top: 30px;
+    border-radius: 43px;
+  }
+
+  #story-heading3{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 55px;
+  }
+  #story-paragraph3{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    margin-left: 22px;
+  }

@@ -1,0 +1,87 @@
+/* Packages.css */
+
+.package-container {
+    margin: 20px 0;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  }
+  
+  .packages-carousel {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 52px;
+    margin-left: 70px;
+    margin-right: 70px;
+  }
+  
+  .package {
+    flex: 0 0 calc(20% - 10px); /* Adjust width and spacing as needed */
+    position: relative;
+  }
+  
+  .package img {
+    width: 250px;
+    height: auto;
+    /* padding: 20px; */
+    margin-left: 25px;
+    /* margin-right: 35px; */
+  }
+  
+  .package-info {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    right: 10px;
+    background-color: rgba(255, 252, 252, 0.7); /* Semi-transparent background */
+    padding: 5px;
+    border-radius: 55px;
+    margin-left: 30px;
+    width: 220px;
+    height: 70px;
+    color: black;
+  }
+  
+  .package-info h2,
+  .package-info p {
+    margin: 0;
+    text-align: center;
+  }
+  /* /*  *------------------------/ */
+  #trending_destinations{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 53, 86);
+  }
+  #trend1{
+    width: 650px;
+    border-radius: 32px;
+    margin-left: 90px;
+  }
+  
+
+  #trend2{
+    width: 692px;
+    height: 372px;
+    border-radius: 32px;
+  }
+  
+  #trend3{
+    width: 392px;
+    margin-left: 92px;
+    border-radius: 52px;
+  }
+#trend4{
+  width: 472px;
+  height: 361px;
+  border-radius: 52px;
+
+}
+#trend5{
+  width: 439px;
+  height: 358px;
+  border-radius: 52px;
+}
+
+  
+  
